@@ -53,3 +53,6 @@ You will need API keys for OpenAI and Google Maps.
 
 ## Future Plans
 This is just the first step of a larger application I plan to build. My goal is to create a comprehensive app that focuses on itineraries for the vegan community, providing detailed and personalized travel plans that cater to vegan lifestyles.
+
+## License
+This project is licensed under a proprietary license. This project is licensed under a proprietary license. See the [LICENSE](License) file for details.
