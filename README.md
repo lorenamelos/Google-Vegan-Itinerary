@@ -20,11 +20,8 @@ I've been vegan for 7 years and wanted to use my skills in data science and LLMs
     cd vegan-itinerary-planner
     ```
 
-2. Install the required packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Run the Jupyter notebook adding your API keys.
+   
 
 ### Obtain API Keys
 
