@@ -1,4 +1,4 @@
-# Vegan Itinerary Planner with LangChain and Google Maps 📍🗺️🌱
+# Vegan Itinerary Planner with LangChain, Google Maps API and Gradio 📍🗺️🌱
 
 This repository contains a web application that helps users find vegan restaurants and create travel itineraries using LangChain and Google Maps API. The application is built with Gradio for the user interface.
 
